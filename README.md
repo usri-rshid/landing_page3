@@ -1,6 +1,6 @@
 # DevPortfolio - Freelance Developer Portfolio
 
-![Project Screenshot](./public/screenshot.png) <!-- Replace with your actual screenshot -->
+![Project Screenshot](./src/assets/hero.jpg) <!-- Replace with your actual screenshot -->
 
 A modern, responsive portfolio website to showcase my skills, projects, and professional experience as a freelance developer.
 
